@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olwethu-MF
+- 👋 Hi, I’m @Olwethu Dlamini
 - 👀 I’m interested in nertworking, java development, ethical hacking and security, gaming
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on making an application and game design
