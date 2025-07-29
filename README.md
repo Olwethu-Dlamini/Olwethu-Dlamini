@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olwethu Dlamini
-- 👀 I’m interested in nertworking, java development, ethical hacking and security, gaming
+- 👀 I’m interested in Networking, java development, ethical hacking and security, gaming
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on making an application and game design
 - 📫 How to reach me olwethudlamini10@gmail.com
