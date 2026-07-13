@@ -1,10 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Olwethu Sakhele Dlamini
+# Olwethu Sakhele Dlamini
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│                           OLWETHU SAKHELE DLAMINI                            │
-│                    Backend Software Developer • Security                     │
-│                      Mbabane, Hhohho Region • eSwatini                       │
+│                          OLWETHU SAKHELE DLAMINI                             │
+│                 Software Developer • Backend & Security                      │
+│                      Mbabane, Hhohho Region, eSwatini                        │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -12,21 +12,33 @@
 olwethu@eswatini:~$ whoami
 ```
 
-Software Developer and Computer Science graduate from **eSwatini**.
+Software Developer and Computer Science graduate based in eSwatini.
 
-I build secure backend systems, cloud infrastructure, scalable APIs, and enterprise software with a strong focus on reliability, security, and clean architecture.
-
-Currently building software that serves businesses and organizations across Southern Africa.
+I enjoy designing secure backend systems, building cloud infrastructure, and developing software that solves real-world problems. My interests include backend architecture, cybersecurity, DevOps, and game development.
 
 ---
 
-# 🚀 Tech Stack
+## About Me
+
+```bash
+olwethu@eswatini:~$ cat about.txt
+```
+
+- Backend-focused software developer
+- Passionate about clean architecture and scalable systems
+- Interested in cloud infrastructure and automation
+- Strong believer in documentation and maintainable code
+- Always learning new technologies
+
+---
+
+## Skills
 
 ```bash
 olwethu@eswatini:~$ tree ~/skills
 ```
 
-```
+```text
 skills
 ├── Languages
 │   ├── Java
@@ -44,8 +56,8 @@ skills
 │   ├── Express
 │   ├── Kafka
 │   ├── Keycloak
-│   ├── Microservices
-│   └── REST APIs
+│   ├── REST APIs
+│   └── Microservices
 │
 ├── Cloud & DevOps
 │   ├── Docker
@@ -73,103 +85,77 @@ skills
 
 ---
 
-# 💼 Experience
+## Featured Work
+
+```bash
+olwethu@eswatini:~$ ls ~/projects
+```
+
+```text
+authentication-service/
+custom-php-mvc/
+bantwana.org.sz/
+slack-jira-integration/
+wireguard-infrastructure/
+```
+
+> Pin these repositories on your GitHub profile.
+
+---
+
+## Experience
 
 ```bash
 olwethu@eswatini:~$ cat experience.log
 ```
 
-## Backend Developer • SIMEDIA *(2026 – Present)*
+```text
+2026–Present  Backend Developer @ SIMEDIA
+ • Authentication (.NET + Keycloak)
+ • Kafka & Microservices
+ • Kubernetes, CI/CD & Testing
 
-- Develop authentication systems using **.NET + Keycloak**
-- Design and maintain **microservice architecture**
-- Build Kafka consumers and asynchronous services
-- Maintain Kubernetes clusters and CI/CD pipelines
-- Configure WireGuard VPN infrastructure
-- Build automated testing using **k6** and **Cypress**
-- Develop Slack ↔ Jira integrations
+2025–Present  Software Developer @ Real Image
+ • Web, Mobile & Desktop Applications
+ • Linux Infrastructure & Deployment
 
----
+2025–Present  Volunteer Developer @ Bantwana Initiative
+ • Built and maintain bantwana.org.sz
 
-## Software Developer • Real Image *(2025 – Present)*
-
-- Build web, desktop and mobile applications
-- Develop using PHP, Flutter and Node.js
-- Deploy production systems with Linux and PM2
-- Implement GovStack standards
-- Build enterprise applications using Joget
+2024–2025  IT & Operations Intern @ Old Mutual
+ • Infrastructure, Networking & Security
+```
 
 ---
 
-## Volunteer Web Developer • Bantwana Initiative Eswatini *(2025 – Present)*
-
-- Designed and built **bantwana.org.sz**
-- Developed a custom PHP MVC framework
-- Integrated Salesforce, Google Analytics and social feeds
-- Manage hosting, SSL, email and databases
-
----
-
-## IT & Operations Intern • Old Mutual *(2024 – 2025)*
-
-- Managed infrastructure across four branches
-- Assisted cybersecurity operations
-- Led Starlink deployment
-- Managed SharePoint permissions and access controls
-
----
-
-# 🌱 Currently Learning
+## Current Interests
 
 ```bash
-olwethu@eswatini:~$ learning
+olwethu@eswatini:~$ cat interests.txt
 ```
-
-- Advanced Kubernetes
-- Distributed Systems
-- Cloud Security
-- Java Backend Architecture
-- AI-assisted Software Engineering
-
----
-
-# 🎯 Interests
 
 ```text
-✔ Backend Engineering
-✔ Cloud Infrastructure
-✔ DevOps
-✔ Ethical Hacking
-✔ Networking
-✔ Game Development
-✔ Open Source
+• Backend Architecture
+• Cloud Development
+• Kubernetes
+• DevOps
+• Cybersecurity
+• Ethical Hacking
+• Game Development
 ```
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Olwethu-Dlamini&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olwethu-Dlamini&layout=compact&theme=tokyonight"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Olwethu-Dlamini&show_icons=true&hide_border=true&theme=transparent"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olwethu-Dlamini&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Olwethu-Dlamini&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📫 Contact
+## Contact
 
 ```bash
 olwethu@eswatini:~$ cat contact.json
@@ -177,18 +163,19 @@ olwethu@eswatini:~$ cat contact.json
 
 ```json
 {
-    "email": "olwethudlamini10@gmail.com",
-    "phone": "+268 76869044 / 79658473",
-    "linkedin": "linkedin.com/in/olwethu-dlamini-768b34233",
-    "github": "github.com/Olwethu-Dlamini",
-    "status": "Open to collaborations and exciting backend projects."
+  "email": "olwethudlamini10@gmail.com",
+  "phone": "+268 76869044 / 79658473",
+  "linkedin": "linkedin.com/in/olwethu-dlamini-768b34233",
+  "github": "github.com/Olwethu-Dlamini",
+  "status": "Open to collaborations on applications and game development."
 }
 ```
 
 ---
 
 ```bash
-olwethu@eswatini:~$ echo "Thanks for visiting!"
-```
+olwethu@eswatini:~$ exit
+logout
 
-> *"Build reliable software. Secure everything. Keep learning."*
+Thanks for stopping by.
+```
