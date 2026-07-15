@@ -1,12 +1,5 @@
 # Olwethu Sakhele Dlamini
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ OLWETHU SAKHELE DLAMINI                                     │
-│ Backend Software Developer • Security                       │
-│                            │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ### whoami
 
