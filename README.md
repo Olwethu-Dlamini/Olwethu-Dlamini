@@ -64,9 +64,8 @@ olwethu@eswatini:~$ cat experience.log
 olwethu@eswatini:~$ ls ~/projects
 
 authentication-service/
-custom-php-mvc/
 bantwana.org.sz/
-wireguard-vpn/
+
 ```
 
 ### contact
