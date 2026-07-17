@@ -63,7 +63,7 @@ olwethu@eswatini:~$ cat experience.log
 ```console
 olwethu@eswatini:~$ ls ~/projects
 
-authentication-service/
+OAuth App/
 bantwana.org.sz/
 
 ```
