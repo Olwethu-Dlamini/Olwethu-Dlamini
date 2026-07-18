@@ -1,4 +1,4 @@
-# Olwethu Sakhele Dlamini
+# Olwethu Dlamini
 
 
 ### whoami
