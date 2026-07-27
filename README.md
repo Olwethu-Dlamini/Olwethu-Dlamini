@@ -6,7 +6,7 @@
 ```console
 olwethu@eswatini:~$ whoami
 
-Software Developer based in eSwatini.
+Software Developer
 
 Focused on backend systems, cloud infrastructure,
 security, and building reliable software.
