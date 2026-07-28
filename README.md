@@ -1,17 +1,6 @@
 # Olwethu Dlamini
 
 
-### whoami
-
-```console
-olwethu@eswatini:~$ whoami
-
-Software Developer
-
-Focused on backend systems, cloud infrastructure,
-security, and building reliable software.
-```
-
 ### skills
 
 ```console
