@@ -1,4 +1,4 @@
-# Olwethu Dlamini
+Olwethu Dlamini
 
 
 ### skills
