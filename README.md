@@ -1,11 +1,6 @@
 
 
 
-### skills
-
-```console
-olwethu@eswatini:~$ tree ~/skills
-
 skills
 ├── Languages
 │   ├── Java
